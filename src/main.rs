@@ -7,7 +7,6 @@ fn main() {
         process::exit(1);
     }).parse().unwrap();
 
-//    let mut i = 36;
     let mut count = 0;
 
     loop {
